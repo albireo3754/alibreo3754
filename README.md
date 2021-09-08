@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 ### Swift
 ### JS
 ### 알고리즘
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=albireo3754)](https://solved.ac/albireo3754)
+- 알고리즘 공부시엔 파이썬을 많이 이용하고 있습니다.
+  - 언어가 도구라면 코딩테스트에 가장 효과적인 도구는 파이썬이라 생각하기때문입니다.
