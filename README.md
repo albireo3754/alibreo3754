@@ -24,8 +24,20 @@ Here are some ideas to get you started:
 
 ## 기술 포트폴리오
 ### Swift
-### JS
+- [X] Swift 문법에 대한 이해가 있고 필요할 때 마다 공식문서를 찾아서 원하는 함수를 찾아서 사용할 수 있습니다.
+- [X] 스위프트 메모리 관리 방식을 이해하고 strong, weak, unowned가 필요한 곳에 적절히 사용할 수 있습니다.
+- [ ] 제네릭을 이용한 POP를 이해하고 적절한 곳에 사용할 수 있습니다.
+- [X] 스토리보드, 코드를 이용해 뷰를 구현할 수 있습니다.
+- [X] 오토레이아웃을 이용해 반응형 뷰 구조를 구현할 수 있습니다.
+- [x] ViewController 라이프 사이클을 이해하고 있습니다.
+- [ ] Xcode에서 서드파티 프레임워크를 등록해서 사용할 수 있습니다.
+- [X] iOS의 기본적인 MVC 패턴을 이해하고 있고, 모델-뷰-컨트롤러로 나눌 수 있습니다.
+- [ ] MVP, MVVM등 추가적인 패턴을 이해하고 코드로 적용할 수 있습니다.
+- [ ] 뷰의 렌더링 사이클을 이해하고 애니메이션을 구현할 수 있습니다.
 ### 알고리즘
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=albireo3754)](https://solved.ac/albireo3754)
 - 알고리즘 공부시엔 파이썬을 많이 이용하고 있습니다.
   - 언어가 도구라면 코딩테스트에 가장 효과적인 도구는 파이썬이라 생각하기때문입니다.
+### Git
+- [X] Branch 전략을 이해하고 있고 작업단위를 나눠서 PR을 보낼 수 있습니다.
+- [X] add, commit, merge, push를 넘어서 cherry-pick, stash, fetch, rebase등의 추가적인 git 명령어를 이해하고 활용할 수 있습니다.
