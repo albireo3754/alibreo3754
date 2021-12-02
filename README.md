@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - [ ] Xcode에서 서드파티 프레임워크를 등록해서 사용할 수 있습니다.
 - [X] iOS의 기본적인 MVC 패턴을 이해하고 있고, 모델-뷰-컨트롤러로 나눌 수 있습니다.
 - [X] MVP, MVVM등 추가적인 패턴을 이해하고 코드로 적용할 수 있습니다.
-- [ ] 뷰의 렌더링 사이클을 이해하고 애니메이션을 구현할 수 있습니다.
+- [X] 뷰의 렌더링 사이클을 이해하고 애니메이션을 구현할 수 있습니다.
 ### 알고리즘
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=albireo3754)](https://solved.ac/albireo3754)
 - 알고리즘 공부시엔 파이썬을 많이 이용하고 있습니다.
