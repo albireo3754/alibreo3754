@@ -18,17 +18,16 @@ Here are some ideas to get you started:
 
 저 스스로는 세상에 널리 기여하는 큰 개발자가 되기 위해 한걸음 한걸음 착실히 걸어나가는 중입니다!
 
-부족하지만 한걸음씩 꾸준히 나아가는 사실을 증명하기 위한 활동들 입니다.
+부족하지만 한걸음씩 꾸준히 나아가고 있다는 것을 증명하기 위한 활동들 입니다.
 
 1. 1일 1커밋 운동
-  - 2021년 12월 18일 시작 ~ 
-  - [다짐](https://albi-tech.tistory.com/51)
- 
+    - 2021년 12월 18일 시작 ~
+    - [다짐](https://albi-tech.tistory.com/51)
 2. 블로그
-  - 일주일에 2편 이상 쓰기
-  - https://albi-tech.tistory.com/
-  - 현재는 CS 지식 / iOS 도메인 지식 / [Jipjung](https://github.com/boostcampwm-2021/iOS10-JipJung) 개선 경험 을 위주로 공부하고 작성하는 중 입니다.
-  
+    - 일주일에 2편 이상 쓰기
+    - [https://albi-tech.tistory.com/](https://albi-tech.tistory.com/)
+    - 현재는 CS 지식 / iOS 도메인 지식 / [Jipjung](https://github.com/boostcampwm-2021/iOS10-JipJung) 개선 경험 을 위주로 공부하고 작성하는 중 입니다.
+    
 ## 교육
 - `2015.02 ~ 2019.03` - DGIST 기초학부 졸업
 - `2021.07 ~ 2021.08` - 부스트캠프 웹모바일 6기(iOS) 챌린지과정 수료
