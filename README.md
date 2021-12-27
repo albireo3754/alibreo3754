@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 2. 블로그
     - 일주일에 2편 이상 쓰기
     - [https://albi-tech.tistory.com/](https://albi-tech.tistory.com/)
-    - 현재는 CS 지식 / iOS 도메인 지식 / [Jipjung](https://github.com/boostcampwm-2021/iOS10-JipJung) 개선 경험 을 위주로 공부하고 작성하는 중 입니다.
+    - 현재는 CS 지식 / iOS 도메인 지식 / [Jipjung](https://github.com/boostcampwm-2021/iOS10-JipJung) 개선 경험을 위주로 공부하고 포스팅 중 입니다.
     
 ## 교육
 - `2015.02 ~ 2019.03` - DGIST 기초학부 졸업
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - [X] iOS의 기본적인 MVC 패턴을 이해하고 있고, 모델-뷰-컨트롤러로 나눌 수 있습니다.
 - [X] MVP, MVVM등 추가적인 패턴을 이해하고 코드로 적용할 수 있습니다.
 - [X] 뷰의 렌더링 사이클을 이해하고 애니메이션을 구현할 수 있습니다.
+- [ ] 앱 배포 경험이 있고, 관련 이슈들을 처리해본 경험이 있습니다.
 ### 알고리즘
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=albireo3754)](https://solved.ac/albireo3754)
 - 알고리즘 공부시엔 파이썬을 많이 이용하고 있습니다.
