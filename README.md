@@ -26,12 +26,15 @@ Here are some ideas to get you started:
 2. 블로그
     - 일주일에 2편 이상 쓰기
     - [https://albi-tech.tistory.com/](https://albi-tech.tistory.com/)
-    - 현재는 CS 지식 / iOS 도메인 지식 / [Jipjung](https://github.com/boostcampwm-2021/iOS10-JipJung) 개선 경험을 위주로 공부하고 포스팅 중 입니다.
+    - 현재는 SwiftUI / RIBs에 대한 학습 경험을 기술하고 있습니다.
     
 ## 교육
 - `2015.02 ~ 2019.03` - DGIST 기초학부 졸업
 - `2021.07 ~ 2021.08` - 부스트캠프 웹모바일 6기(iOS) 챌린지과정 수료
-- `2021.08 ~ 2021.12` - 부스트캠프 웹모바일 6기(iOS) 맴버쉽과정 진행
+- `2021.08 ~ 2021.12` - 부스트캠프 웹모바일 6기(iOS) 맴버쉽과정 수료
+
+## 경력
+- `2021.02 ~ ` - 카카오엔터프라이즈 전환형 인턴
 
 ## 기술 포트폴리오
 ### Swift
