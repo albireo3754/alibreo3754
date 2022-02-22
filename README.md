@@ -27,7 +27,10 @@ Here are some ideas to get you started:
     - 일주일에 2편 이상 쓰기
     - [https://albi-tech.tistory.com/](https://albi-tech.tistory.com/)
     - 현재는 SwiftUI / RIBs에 대한 학습 경험을 기술하고 있습니다.
-    
+3. TDD 훈련
+    - 2021년 02월 22일 시작 ~
+    - [왜 TDD훈련을 시작하였는가?]()
+    - https://github.com/alibreo3754/TDDTraining
 ## 교육
 - `2015.02 ~ 2019.03` - DGIST 기초학부 졸업
 - `2021.07 ~ 2021.08` - 부스트캠프 웹모바일 6기(iOS) 챌린지과정 수료
