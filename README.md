@@ -23,21 +23,25 @@ Here are some ideas to get you started:
 1. 1일 1커밋 운동
     - 2021년 12월 18일 시작 ~
     - [다짐](https://albi-tech.tistory.com/51)
-2. 블로그
-    - 일주일에 2편 이상 쓰기
-    - [https://albi-tech.tistory.com/](https://albi-tech.tistory.com/)
-    - 현재는 SwiftUI / RIBs에 대한 학습 경험을 기술하고 있습니다.
-3. TDD 훈련
+2. TDD 훈련
     - 2021년 02월 22일 시작 ~
     - [왜 TDD훈련을 시작하였는가?](https://albi-tech.tistory.com/88)
     - https://github.com/alibreo3754/TDDTraining
+3. Object 스터디
+    - 2021년 03월 15일 시작 ~
+    - [Object 스터디를 시작하며](https://albi-tech.tistory.com/89)
+    - https://github.com/Ptudy/Object
+4. 블로그
+    - https://albi-tech.tistory.com/
+    - 최근엔 스터디와 코딩위주로 진행하다 보니 블로그 업데이트 자체는 뜸한 상태입니다.
+    
 ## 교육
 - `2015.02 ~ 2019.03` - DGIST 기초학부 졸업
 - `2021.07 ~ 2021.08` - 부스트캠프 웹모바일 6기(iOS) 챌린지과정 수료
 - `2021.08 ~ 2021.12` - 부스트캠프 웹모바일 6기(iOS) 맴버쉽과정 수료
 
 ## 경력
-- `2021.02 ~ ` - 카카오엔터프라이즈 전환형 인턴
+- `2021.02 ~ 2022.05` - 카카오엔터프라이즈 전환형 인턴
 
 ## 기술 포트폴리오
 
@@ -50,6 +54,7 @@ Here are some ideas to get you started:
     - 문자열 처리가 쉽고 ide가 없을 때 힘이 빠지는 다른 언어들과 달라서 코딩테스트 환경에서 가장 강력합니다.
 - Java
     - 좋은 개발, 좋은 객체지향에 대해 학습하기 위해서 좋은 책들을 읽기 위해 익혔습니다.
+    - 인텔리제이는 최고의 TDD와 리팩토링 도구입니다...
  
 ### 알고리즘
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=albireo3754)](https://solved.ac/albireo3754)
