@@ -12,17 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-1. 1일 1커밋 운동
-    - 2021년 12월 18일 시작 ~
-    - [다짐](https://albi-tech.tistory.com/51)
-    - 1일 1커밋을 단순히 커밋을 채우는 것으로 끝내지 않기 위해 코딩 혹은 구현력을 키우기 위한 훈련인 일종의 코드 카타를 통해 커밋을 채워보려고 합니다.
-        - 방법 1. TDD ([왜 TDD훈련을 시작하였는가?](https://albi-tech.tistory.com/88))
-        - 방법 2. 알고리즘 문제풀이
-2. Object 스터디
-    - 2021년 03월 15일 시작 ~
-    - [Object 스터디를 시작하며](https://albi-tech.tistory.com/89)
-    - https://github.com/Ptudy/Object
     
 ## 교육
 - `2015.02 ~ 2019.03` - DGIST 기초학부 졸업
@@ -32,6 +21,7 @@ Here are some ideas to get you started:
 ## 경력
 - `2022.02 ~ 2022.05` - 카카오엔터프라이즈 전환형 인턴
 - `2022.05 ~ ` - 카카오엔터프라이즈
+
 ## 기술 포트폴리오
 
 ### 언어
@@ -46,5 +36,17 @@ Here are some ideas to get you started:
  
 ### 알고리즘
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=albireo3754)](https://solved.ac/albireo3754)
+
+### 활동
+1. 1일 1커밋 운동
+    - 2021년 12월 18일 시작 ~
+    - [다짐](https://albi-tech.tistory.com/51)
+    - 1일 1커밋을 단순히 커밋을 채우는 것으로 끝내지 않기 위해 코딩 혹은 구현력을 키우기 위한 훈련인 일종의 코드 카타를 통해 커밋을 채워보려고 합니다.
+        - 방법 1. TDD ([왜 TDD훈련을 시작하였는가?](https://albi-tech.tistory.com/88))
+        - 방법 2. 알고리즘 문제풀이
+2. Object 스터디
+    - 2021년 03월 15일 시작 ~
+    - [Object 스터디를 시작하며](https://albi-tech.tistory.com/89)
+    - https://github.com/Ptudy/Object
 
 
